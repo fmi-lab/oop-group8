@@ -6,31 +6,185 @@ Elena Stoyanova - elenastoyanovaaa@gmail.com
 Kalina Georgieva - kallygeorgieva@gmail.com
 
 <h2>Results:</h2>
-
-|   #   |  H1  |  H2  |  T1  |   T2  |
-|-------|------|------|------|--------|
-|  257  | 5,50 |      |   6  |    6   |
-|  338  | 4.25 |      | 4.50 |    5   |
-|  363  | 5.75 |      | 5.50 |    6   |        
-|  386  | 5,50 |      |   5  |    6   |        
-|  265  | 6,20 |      | 5.70 |    6   |        
-|  305  | 4,25 |      | 3.50 |    4   |        
-|  279  | 6,30 |      |   6  |    6   |        
-|  294  | 5,60 |      | 4.75 |    6   |     
-|  332  | 4,00 |      | 4.40 |    5   |        
-|  311  |   -  |      |      |        |        
-|  322  | 6,00 |      |   5  |    6   |        
-|  390  | 4,75 |      |   5  |    5   |        
-|  274  | 3,75 |      | 4.75 |    5   |        
-|  301  | 6,10 |      |   5  |    6   |        
-|  354  | 4,75 |      | 3.75 |    5   |      
-|  290  | 6,25 |      | 5.80 |    6   |        
-|  392  | 6,20 |      |  6+  |    6   |       
-|  266  | 6,30 |      | 4.75 |    6   |       
-|  250  | 4,50 |      |   4  |    5   |       
-
 <table>
-<tr>
-<td>b</td>
-</tr>
-<table>
+	<th>
+		<td>#</td>
+		<td>H1</td>
+		<td>H2</td>
+		<td>T1</td>
+		<td>T2</td>
+		<td>AT</td>
+		<td>Final</td>
+		<tr>
+			<td>257</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>338</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>363</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>386</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>265</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>305</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>279</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>294</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>332</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>311</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>322</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>390</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>274</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>301</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>354</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>290</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>392</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>266</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>250</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</th>
+</table>
