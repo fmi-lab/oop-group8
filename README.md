@@ -15,6 +15,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		<td>T2</td>
 		<td>AT</td>
 		<td>Final</td>
+	</th>
 		<tr>
 			<td>257</td>
 			<td></td>
@@ -186,5 +187,4 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 			<td></td>
 			<td></td>
 		</tr>
-	</th>
 </table>
