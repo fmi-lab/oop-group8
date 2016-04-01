@@ -14,7 +14,7 @@
 	<br>- #define NAME_H //define it so the compiler knows it has been included
 	<br>- class NAME{
 	}; //декларация на класа
-	<br>#endif 
+	<br>-#endif 
 	<br>
 	В .cpp трябва да добавим в началото #include "името на файла.h" .Остава само да дефинираме функциите , декларирани в header.
 	</li>
@@ -26,4 +26,5 @@
 Всички умни хора са мързеливи - ако не бяха, щяха да си вършат работата по трудния начин. Някои програмисти са умни. Умните програмисти са мързеливи. Най-най-основният начин да пишем по-малко код и да гледаме повече смешни снимки на котки е да спазваме DRY принципа.
 Don't Repeat Yourself.</p>
 <h4>Задача: Имплементация на структура от данни стек, използвайки шаблони и метода за разделяне на файловете.</h4>
-<strong>HELP: http://www.cplusplus.com/reference/stack/stack/</strong>
+<strong>HELP: http://www.cplusplus.com/reference/stack/stack/
+<br/>http://www.tutorialspoint.com/cplusplus/cpp_templates.htm</strong>
