@@ -45,7 +45,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		</tr>
 		<tr>
 			<td>386</td>
-			<td>6</td>
+			<td>6.00</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -54,7 +54,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		</tr>
 		<tr>
 			<td>265</td>
-			<td>6</td>
+			<td>6.00</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -63,7 +63,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		</tr>
 		<tr>
 			<td>305</td>
-			<td>3</td>
+			<td>3.00</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -171,7 +171,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		</tr>
 		<tr>
 			<td>266</td>
-			<td>5</td>
+			<td>5.00</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -189,7 +189,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		</tr>
 		<tr>
 			<td>80920</td>
-			<td>4</td>
+			<td>4.00</td>
 			<td></td>
 			<td></td>
 			<td></td>
