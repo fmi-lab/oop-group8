@@ -19,92 +19,92 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		<tr>
 			<td>257</td>
 			<td>5.9</td>
+			<td>6</td>
+			<td>6</td>
+			<td>5.5</td>
 			<td></td>
 			<td>6</td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td>338</td>
 			<td>4.25</td>
-			<td></td>
+			<td>5.75</td>
 			<td>4.50</td>
+			<td>4.75</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>5</td>
 		</tr>
 		<tr>
 			<td>363</td>
 			<td>5.8</td>
+			<td>5.25</td>
+			<td>6</td>
+			<td>5.5</td>
 			<td></td>
 			<td>6</td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td>386</td>
 			<td>6.00</td>
-			<td></td>
+			<td>6</td>
 			<td>6.00</td>
+			<td>5.7</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>265</td>
 			<td>6.00</td>
-			<td></td>
+			<td>6</td>
 			<td>5.75</td>
+			<td>6</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>305</td>
 			<td>3.00</td>
-			<td></td>
+			<td>3.75</td>
 			<td>3.50</td>
+			<td>2.5</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>3</td>
 		</tr>
 		<tr>
 			<td>279</td>
 			<td>5.75</td>
+			<td>5</td>
+			<td>6</td>
+			<td>5.75</td>
 			<td></td>
 			<td>6</td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td>294</td>
 			<td>6</td>
-			<td></td>
 			<td>5.5</td>
+			<td>5.5</td>
+			<td>5.7</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>332</td>
 			<td>2</td>
-			<td></td>
+			<td>5.5</td>
 			<td>4.25</td>
+			<td>3.5</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>4</td>
 		</tr>
 		<tr>
 			<td>322</td>
 			<td>5.75</td>
-			<td></td>
+			<td>5.75</td>
 			<td>6.25</td>
+			<td>5.6</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>311</td>
@@ -118,80 +118,80 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 		<tr>
 			<td>390</td>
 			<td>4.50</td>
-			<td></td>
+			<td>2</td>
 			<td>4.50</td>
+			<td>2</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>2 или 3/4</td>
 		</tr>
 		<tr>
 			<td>274</td>
 			<td>2</td>
-			<td></td>
+			<td>5.25</td>
 			<td>3</td>
+			<td>4</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>4</td>
 		</tr>
 		<tr>
 			<td>301</td>
 			<td>6</td>
-			<td></td>
+			<td>6</td>
 			<td>5.50</td>
+			<td>5.75</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>354</td>
 			<td>3</td>
-			<td></td>
+			<td>4</td>
 			<td>5</td>
+			<td>3</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>4</td>
 		</tr>
 		<tr>
 			<td>290</td>
 			<td>5.9</td>
+			<td>5</td>
+			<td>5.50</td>
+			<td>5.25</td>
 			<td></td>
 			<td>5.50</td>
-			<td></td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td>392</td>
 			<td>6</td>
-			<td></td>
+			<td>5</td>
 			<td>6.25</td>
+			<td>5.5</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>6</td>
 		</tr>
 		<tr>
 			<td>266</td>
 			<td>5.00</td>
-			<td></td>
+			<td>5</td>
 			<td>5.00</td>
+			<td>2</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>4 или 5</td>
 		</tr>
 		<tr>
 			<td>250</td>
 			<td>3.25</td>
-			<td></td>
+			<td>2</td>
 			<td>3</td>
+			<td>2</td>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td>2 или 3</td>
 		</tr>
 		<tr>
 			<td>80920</td>
 			<td>4.00</td>
 			<td></td>
-			<td></td>
+			<td>5.5</td>
 			<td></td>
 			<td></td>
 			<td></td>
