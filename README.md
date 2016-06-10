@@ -122,7 +122,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 			<td>4.50</td>
 			<td>2</td>
 			<td></td>
-			<td>2 или 3/4</td>
+			<td>3</td>
 		</tr>
 		<tr>
 			<td>274</td>
@@ -176,7 +176,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 			<td>5.00</td>
 			<td>2</td>
 			<td></td>
-			<td>4 или 5</td>
+			<td>4 </td>
 		</tr>
 		<tr>
 			<td>250</td>
@@ -185,7 +185,7 @@ Kalina Georgieva - kallygeorgieva@gmail.com
 			<td>3</td>
 			<td>2</td>
 			<td></td>
-			<td>2 или 3</td>
+			<td>2</td>
 		</tr>
 		<tr>
 			<td>80920</td>
